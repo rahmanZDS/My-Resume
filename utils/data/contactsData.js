@@ -5,6 +5,6 @@ export const contactsData = {
     github: 'https://github.com/rahmanZDS',
     facebook: ' ',
     linkedIn: 'https://www.linkedin.com/in/muhammad-rahman-52b7aa150/',
-    twitter: 'https://twitter.com/said7388',
-    devUsername: "rahmanZDS" // said7388
+    twitter: ' ',
+    devUsername: "rahmanZDS" 
 }
